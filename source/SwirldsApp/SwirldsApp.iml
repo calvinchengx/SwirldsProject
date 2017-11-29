@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:platform:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:fcfs:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:fcutil:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:abcl-swirlds:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.abcl:abcl-contrib:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.derby:derby:10.12.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b5" level="project" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:fcfs-dep-fasl:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:fcdb:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: SwirldsPlatform:fcdb-dep-fasl:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.offbynull.portmapper:portmapper:2.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-nop:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.7" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:3.8.2" level="project" />
+  </component>
+</module>

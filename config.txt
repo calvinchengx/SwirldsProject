@@ -1,0 +1,10 @@
+swirld, 123
+
+app,		SwirldsApp.jar
+
+address,  A, Alice,    1, 127.0.0.1, 50204, 127.0.0.1, 50204
+address,  B, Bob,      1, 127.0.0.1, 50205, 127.0.0.1, 50205
+address,  C, Carol,    1, 127.0.0.1, 50206, 127.0.0.1, 50206
+address,  D, Dave,     1, 127.0.0.1, 50207, 127.0.0.1, 50207
+
+TLS, on   #on to enable TLS, off to disable.

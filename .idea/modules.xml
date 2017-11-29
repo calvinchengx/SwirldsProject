@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/source/SwirldsApp/SwirldsApp.iml" filepath="$PROJECT_DIR$/source/SwirldsApp/SwirldsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/SwirldsParent.iml" filepath="$PROJECT_DIR$/source/SwirldsParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwirldsProject.iml" filepath="$PROJECT_DIR$/SwirldsProject.iml" />
+    </modules>
+  </component>
+</project>
